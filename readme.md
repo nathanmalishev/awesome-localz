@@ -13,6 +13,7 @@
 
 - [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript) - A collection of awesome browser-side JavaScript libraries, resources and shiny things.
 - [JavaScript sub-reddit](https://www.reddit.com/r/javascript/) - Javascript sub-reddit.
+- [ES6 Features](https://github.com/lukehoban/es6features)
 
 ## Front-end
 
@@ -20,7 +21,7 @@
   - [Awesome React](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem.
   - [React sub-reddit](https://www.reddit.com/r/reactjs/) - React sub-reddit.
 - [React Native](https://facebook.github.io/react-native/docs/getting-started.html) - The React Native documentation.
-  - [Awesome React Native](https://github.com/jondot/awesome-react-native) - An awesome style list that curates the best React Native libraries, tools, tutorials, articles and more.
+  - [Awesome React Native](https://github.com/jondot/awesome-react-native) - An awesome style list that curates the best React Native stuff
   - Components
     - [React Native Search Bar](https://github.com/localz/react-native-searchbar) - A pretty sweet search bar for React Native.
   - Utilities
