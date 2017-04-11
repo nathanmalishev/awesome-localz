@@ -7,6 +7,7 @@
 - [JavaScript](#javascript)
 - [Front-end](#frontend)
 - [Back-end](#backend)
+- [Testing](#testing)
 - [Tools](#tools)
 
 ## JavaScript
@@ -37,6 +38,11 @@
     - [Martin Fowler's Microservices Testing](https://martinfowler.com/articles/microservice-testing/)
 - [Swagger](http://swagger.io) - Swagger for API generator and doc
 - [Hapi JS](https://hapijs.com/) - A rich framework for building applications and services
+
+## Testing
+- [Jest](https://facebook.github.io/jest/) - Painless javascript testing.
+- [Nock](https://github.com/node-nock/nock) - HTTP mocking
+
 
 ## Tools
 
